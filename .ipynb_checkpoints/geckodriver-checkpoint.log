@@ -1,0 +1,126 @@
+1543986492140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile.jYbqzVLFU8jW"
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986494592	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986501316	Marionette	INFO	Listening on port 56719
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986503122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-codes.iccsafe.org/bundles/publicaccess/js/responsive/custom.js, line 414: unreachable code after return statement
+JavaScript warning: https://cdn-codes.iccsafe.org/bundles/publicaccess/js/responsive/custom.js, line 414: unreachable code after return statement
+[Child 14952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14952, Chrome_Ch[Child 12860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12860, Chrome_ChildThread] WARNING: pip[Parent 13880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21416, *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_c
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543986536160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile.1yjOazSmqVO3"
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986538316	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3452, Chrome_Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+console.error: 
+  Could not write session state file 
+  Message: Error: _initWorker called too early! Please read the session file from disk first.
+  Stack:
+    _initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:344:15
+_initWorker@resource:///modules/sessionstore/SessionFile.jsm:337:12
+_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:361:11
+write@resource:///modules/sessionstore/SessionFile.jsm:401:19
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+  _initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:344:15
+_initWorker@resource:///modules/sessionstore/SessionFile.jsm:337:12
+_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:361:11
+write@resource:///modules/sessionstore/SessionFile.jsm:401:19
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986552338	Marionette	INFO	Listening on port 57059
+1543986552886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-codes.iccsafe.org/bundles/publicaccess/js/responsive/custom.js, line 414: unreachable code after return statement
+JavaScript warning: https://cdn-codes.iccsafe.org/bundles/publicaccess/js/responsive/custom.js, line 414: unreachable code after return statement
+[Child 12316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12316, Chrome_[Parent 17908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10196, Chrome_[Parent 17908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17140, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 13744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543986587646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile.dh4kdQkLIDUC"
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986589946	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986596198	Marionette	INFO	Listening on port 57474
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986597360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-codes.iccsafe.org/bundles/publicaccess/js/responsive/custom.js, line 414: unreachable code after return statement
+JavaScript warning: https://cdn-codes.iccsafe.org/bundles/publicaccess/js/responsive/custom.js, line 414: unreachable code after return statement
+[Child 8008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8008, Ch[Child 6892, Chrom[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543986630416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile.EE3nGZiJ5s8Z"
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986632554	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986638696	Marionette	INFO	Listening on port 57806
+1543986638770	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://cdn-codes.iccsafe.org/bundles/publicaccess/js/responsive/custom.js, line 414: unreachable code after return statement
+JavaScript warning: https://cdn-codes.iccsafe.org/bundles/publicaccess/js/responsive/custom.js, line 414: unreachable code after return statement
+[Child 17664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17664, Chrome_Ch[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543986676113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile.QGMqxWWVOGvp"
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986681152	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986686704	Marionette	INFO	Listening on port 58229
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986686788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn-codes.iccsafe.org/bundles/publicaccess/js/responsive/custom.js, line 414: unreachable code after return statement
+JavaScript warning: https://cdn-codes.iccsafe.org/bundles/publicaccess/js/responsive/custom.js, line 414: unreachable code after return statement
+[Child 12184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12184[Child 19880, Ch[Parent 18604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 846*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543986718858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile.tzrTDQq53xmI"
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986720890	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\matt\AppData\Local\openvr\openvrpaths.vrpath
+1543986728196	Marionette	INFO	Listening on port 58580
+1543986728326	Marionette	WARN	TLS certificate errors will be ignored for this session
